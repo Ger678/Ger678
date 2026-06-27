@@ -58,5 +58,5 @@ SAP BTP Developer with 3+ years of experience building enterprise-grade applicat
 
 - 📧 germanalejandroaguirre678@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/german-aguirre/)
-- 🌐 [Portfolio](https://portfolio-german-3a245.web.app/)
+- 🌐 [Portfolio]([https://portfolio-german-3a245.web.app/](https://ger678.github.io/g-man-portfolio/sap-btp.html))
 - 📍 Salta, Argentina
